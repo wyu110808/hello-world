@@ -15,7 +15,7 @@ class UrlController extends Controller{
         $url_get=htmlspecialchars_decode($url_get);//将特殊的HTML实体转换回普通字符
 
         //echo $url_get;die;
-
+        //test
         
 
         $post_name=I('post.post_name');
